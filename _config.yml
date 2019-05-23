@@ -6,22 +6,27 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
-  #qq: "#"
-  #weixin: "#"
-  #jianshu: "#"
-  #douban: "#"
-  #segmentfault: "#"
-  #bilibili: "#"
-  #acfun: "#"
-  #mail: "mailto:litten225@qq.com"
-  #facebook: "#"
-  #google: "#"
-  #twitter: "#"
-  #linkedin: "#"
+  github: "https://github.com/MLlgy"
+  # weibo: "#"
+  # rss: "#"
+  # zhihu: "#"
+  # qq: "#"
+  # weixin: "#"
+  jianshu: "https://www.jianshu.com/u/a1cf417ba033"
+  # douban: "#"
+  # segmentfault: "#"
+  # bilibili: "#"
+  # acfun: "#"
+  mail: "mailto:alinemklee@yeah.net"
+  # facebook: "#"
+  # google: "#"
+  # twitter: "#"
+  # linkedin: "#"
+  # sort: "#"
+  # category: "#"
+  # right: "#"
+  # tags: "#"
+  # calendar: "#"
 
 rss: /atom.xml
 
@@ -117,14 +122,15 @@ slider:
 smart_menu:
   innerArchive: '所有文章'
   friends: '友链'
-  aboutme: '关于我'
+  # aboutme: '关于我'
 
 friends:
-  友情链接1: http://localhost:4000/
-  友情链接2: http://localhost:4000/
-  友情链接3: http://localhost:4000/
-  友情链接4: http://localhost:4000/
-  友情链接5: http://localhost:4000/
-  友情链接6: http://localhost:4000/
+  谷歌官方文档: http://localhost:4000/
+  Android 开发技术周报: https://androidweekly.io/
+  Android OS 在线源代码: https://www.androidos.net.cn/
+  Flutter 中文网: https://flutterchina.club/
+  Android XRef: http://androidxref.com/
+  极客导航: http://www.jikedaohang.com/
+  WanAndroid: https://www.wanandroid.com/
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+# aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
