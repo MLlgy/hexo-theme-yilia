@@ -3,6 +3,7 @@
 menu:
   主页: /
   随笔: /tags/随笔/
+  # 个人简历: /show/
 
 # SubNav
 subnav:
@@ -132,6 +133,7 @@ smart_menu:
   # aboutme: '关于我'
 
 friends:
+  AOSP代码搜索工具: https://cs.android.com/
   谷歌官方文档: http://localhost:4000/
   Android 开发技术周报: https://androidweekly.io/
   Android OS 在线源代码: https://www.androidos.net.cn/
